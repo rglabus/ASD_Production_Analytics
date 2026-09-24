@@ -11,7 +11,7 @@ st.set_page_config(page_title="Analiza Zapasów Magazynowych", layout="wide")
 st.title("📦 Analiza Zapasów i Zapotrzebowania")
 
 # Ścieżka do wewnętrznego pliku BOM w projekcie
-BOM_PATH = "data/BOm.xlsx"  # Jeśli plik leży w głównym katalogu, zmień na: "BOM.xlsx"
+BOM_PATH = "data/BOM.xlsx"  # Jeśli plik leży w głównym katalogu, zmień na: "BOM.xlsx"
 
 # Ładowanie danych z wykorzystaniem cache Streamlit dla optymalizacji
 @st.cache_data
