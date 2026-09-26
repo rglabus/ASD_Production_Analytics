@@ -1,8 +1,20 @@
 # 📦 ASD Production & Inventory Analytics
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://TWOJ-LINK-DO-APLIKACJI.streamlit.app)
+
 Lekki, chmurowy pulpit analityczny stworzony w bibliotece **Streamlit**, przeznaczony do monitorowania zapasów magazynowych, wyliczania bezpiecznych buforów produkcyjnych oraz błyskawicznego identyfikowania wąskich gardeł w oparciu o czasy dostaw (Lead Time).
 
 Aplikacja jest zoptymalizowana pod kątem prostej, jednowidokowej obsługi (bez zbędnych paneli administracyjnych) i automatycznie przelicza zapotrzebowanie po zmianie planu produkcyjnego.
+
+---
+
+## 🌍 Dostęp do Aplikacji (Live Demo)
+
+Aplikacja jest dostępna publicznie pod adresem: 
+**👉 [Uruchom ASD Inventory Analytics](https://TWOJ-LINK-DO-APLIKACJI.streamlit.app)**
+
+> **⚠️ Ważna informacja (Tryb Uśpienia):**
+> Aplikacja jest hostowana na bezpłatnej platformie Streamlit Community Cloud. Jeśli nikt nie korzystał z niej przez kilka dni, serwer przechodzi w stan oszczędzania energii. Jeśli po wejściu w link zobaczysz ekran z ikoną śpiącej twarzy ("Zzzz") i komunikatem o uśpieniu z powodu braku aktywności[cite: 7], po prostu kliknij niebieski przycisk **"Yes, get this app back up!"**[cite: 7]. Aplikacja uruchomi się ponownie w ciągu 1-2 minut.
 
 ---
 
