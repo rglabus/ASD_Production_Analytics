@@ -11,7 +11,7 @@ Aplikacja jest zoptymalizowana pod kątem prostej, jednowidokowej obsługi (bez 
 ## 🌍 Dostęp do Aplikacji (Live Demo)
 
 Aplikacja jest dostępna publicznie pod adresem: 
-**👉 [Uruchom ASD Inventory Analytics](https://TWOJ-LINK-DO-APLIKACJI.streamlit.app)**
+**👉 [Uruchom ASD Inventory Analytics](https://asdappuctionanalytics-gm6kfeoqvsnjnsoqzc4u4v.streamlit.app/)**
 
 > **⚠️ Ważna informacja (Tryb Uśpienia):**
 > Aplikacja jest hostowana na bezpłatnej platformie Streamlit Community Cloud. Jeśli nikt nie korzystał z niej przez kilka dni, serwer przechodzi w stan oszczędzania energii. Jeśli po wejściu w link zobaczysz ekran z ikoną śpiącej twarzy ("Zzzz") i komunikatem o uśpieniu z powodu braku aktywności[cite: 7], po prostu kliknij niebieski przycisk **"Yes, get this app back up!"**[cite: 7]. Aplikacja uruchomi się ponownie w ciągu 1-2 minut.
